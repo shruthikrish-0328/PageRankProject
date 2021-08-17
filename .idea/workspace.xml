@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="PageRankSubmission" targetName="PageRankSubmission" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="853ca733-4da7-41bd-bf84-0e4805519832" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1jlM5FdWzKGsZtk5iL1qiEiJovc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PageRankSubmission" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PageRankSubmission" TARGET_NAME="PageRankSubmission" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PageRankSubmission" RUN_TARGET_NAME="PageRankSubmission">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="853ca733-4da7-41bd-bf84-0e4805519832" name="Default Changelist" comment="" />
+      <created>1604374039188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604374039188</updated>
+      <workItem from="1604374040675" duration="1644000" />
+      <workItem from="1605207265645" duration="342000" />
+      <workItem from="1605466200061" duration="6521000" />
+      <workItem from="1629155352168" duration="8000" />
+      <workItem from="1629155807516" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="204" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605482076072">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="204" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1605482076072" />
+    <state x="488" y="273" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1605481940103">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="488" y="273" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.828@0.23.1440.828" timestamp="1605481940103" />
+    <state width="1358" height="130" key="GridCell.Tab.0.bottom" timestamp="1606166734735">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="130" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1606166734735" />
+    <state width="1358" height="130" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1604443928190" />
+    <state width="1358" height="109" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1604375704678" />
+    <state width="1358" height="130" key="GridCell.Tab.0.center" timestamp="1606166734734">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="130" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1606166734734" />
+    <state width="1358" height="130" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1604443928188" />
+    <state width="1358" height="109" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1604375704677" />
+    <state width="1358" height="130" key="GridCell.Tab.0.left" timestamp="1606166734734">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="130" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1606166734734" />
+    <state width="1358" height="130" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1604443928187" />
+    <state width="1358" height="109" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1604375704676" />
+    <state width="1358" height="130" key="GridCell.Tab.0.right" timestamp="1606166734735">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1358" height="130" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1606166734735" />
+    <state width="1358" height="130" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1604443928189" />
+    <state width="1358" height="109" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1604375704677" />
+  </component>
+</project>
